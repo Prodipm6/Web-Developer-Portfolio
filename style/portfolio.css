@@ -115,3 +115,19 @@ main{
 .about-info{
     text-align: center;
 }
+
+.info-title{
+    color: #757575;
+}
+/* what i do section */
+#what-i-do-detail{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
+    
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
